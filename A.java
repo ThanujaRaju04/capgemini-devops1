@@ -7,6 +7,8 @@ void add(int x,int y)
 {
 int c=x+y;
 }
-
+void null()
+{
+}
 
 }
