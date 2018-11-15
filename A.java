@@ -1,3 +1,4 @@
+// added
 Class A
 {
 void welcome()
